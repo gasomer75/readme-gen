@@ -90,7 +90,7 @@ No deployment
 
 ## Contributions
 In order to contribute to this project you must first fork the repo and create your new branch from branch 
-`main` Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to `main` and
+`main`. Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to `main` and
 it will be reviewed. Be sure to include any contact information so that we may address any questions that arise to the proper source.
 
 ## Testing
