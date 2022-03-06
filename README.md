@@ -18,13 +18,13 @@
 - The template used contains the main sections that are typically included in a ReadMe file. It's basic design is what makes it simple and appealing. However, there may be sections that a user wishes to include in their ReadMe file that are not part of this template.
 
 ## Installation
-- To use this application you must have node.js installed on your device. (v 16.14.0 or newer is recommended)
-- Next you must install the npm inquirer package (v 8.2.0 or newer). Use the following commands for this step: 
+- To use this application you must have [node.js](https://nodejs.org/en/download/) installed on your device. (v 16.14.0 or newer is recommended)
+- Next you must install the npm [inquirer](https://www.npmjs.com/package/inquirer) package (v 8.2.0 or newer). Use the following commands for this step: 
 
       npm init
       npm i inquirer
 
-After following these steps your application should be ready to execute.
+- After following these steps your application should be ready to execute.
 
 ## Usage
 - To initialize the prompts you must navigate using the command line to the folder containing the index.js file. 
@@ -33,14 +33,56 @@ After following these steps your application should be ready to execute.
       node index.js
     
 - Answer all the prompts and if the file executed properly you will receive a confirmation statement that your ReadMe file was created successfully. 
-- To locate your newly generated file navigate to the <mark >**/dist**</mark> folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
+- To locate your newly generated file navigate to the `/dist` folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
   - Note that if you run the application more than once, each time will overwrite the previous file. If you wish to save any copies, do so before running the application.
 
 ### Screenshot of Command Line Prompts
 ![Command Line Prompts](/assets/images/cl-screenshot.png)
 
-### Screenshot of Generated README File
-![ReadMe File](/assets/images/rm-screenshot.png)
+### Example of Generated README File
+    # Project Title Goes Here
+    [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+
+    ## Description
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    ## Table of Contents
+
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Link](#link)
+    - [Contributions](#contributions)
+    - [Tests](#tests)
+    - [License](#license)
+    - [Questions](#questions)
+
+    ## Installation
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    ## Usage
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    ![No screenshot available](./images/md-screenshot.png)
+
+    ## Link
+    To visit the latest deployed version please check out the link below.
+    - No deployment.
+
+    ## Contributions
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    ## Tests
+    No testing guidelines at this time.
+    
+    ## License
+    Licensed under the [MPL-2.0](https://opensource.org/licenses/MPL-2.0) license.
+
+    ## Questions
+    - Visit my GitHub page:
+      - *[GitHub Page](https://github.com/Username1234)*
+    - Send an email with the project name as the subject to:
+      - *some_email@address.org*
 
 ## Link
 No deployment
@@ -48,7 +90,7 @@ No deployment
 
 ## Contributions
 In order to contribute to this project you must first fork the repo and create your new branch from branch 
-<mark >**main**</mark>. Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to <mark >**main**</mark> and
+`main` Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to `main` and
 it will be reviewed. Be sure to include any contact information so that we may address any questions that arise to the proper source.
 
 ## Testing
