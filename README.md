@@ -33,7 +33,7 @@ After following these steps your application should be ready to execute.
       node index.js
     
 - Answer all the prompts and if the file executed properly you will receive a confirmation statement that your ReadMe file was created successfully. 
-- To locate your newly generated file navigate to the <mark >**/dist**</mark> folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
+- To locate your newly generated file navigate to the `/dist` folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
   - Note that if you run the application more than once, each time will overwrite the previous file. If you wish to save any copies, do so before running the application.
 
 ### Screenshot of Command Line Prompts
@@ -48,7 +48,7 @@ No deployment
 
 ## Contributions
 In order to contribute to this project you must first fork the repo and create your new branch from branch 
-<mark >**main**</mark>. Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to <mark >**main**</mark> and
+`main`. Once you have completed your addition/bug fix create an issue with a description of how your code will improve the project. Then submit a pull request for your code to be added to `main` and
 it will be reviewed. Be sure to include any contact information so that we may address any questions that arise to the proper source.
 
 ## Testing
