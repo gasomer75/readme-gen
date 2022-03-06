@@ -110,14 +110,7 @@ const questions = [
     type: 'input',
     name: 'testing',
     message: 'Provide any testing guidelines for this application: ',
-    validate: testingInput => {
-      if (testingInput) {
-        return true;
-      } else {
-        console.log('Please give testing guidelines to continue!');
-        return false;
-      }
-    }
+    default: 'No testing guidelines at this time.'
   },
   {
     type: 'confirm',
@@ -150,7 +143,8 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions)
     .then(answers => {
-      console.log(answers);
+      console.log(generateMarkdown(answers));
+      return generateMarkdown(answers);
     })
 }
 
