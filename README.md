@@ -41,11 +41,15 @@
 
 ### Example of Generated README File
     # Project Title Goes Here
-    [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
+    - If you want to add a badge do it here.
+    - Visit https://github.com/badges/shields/blob/master/README.md for badge info.
 
     ## Description
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Your description goes here. Be sure to include a good summary of the project and it's purpose.
+    - What was the goal of this project?
+    - What problem is this project solving?
+    - Why was this my solution?
+    - Is there any desire to improve this project in the future?
 
     ## Table of Contents
 
@@ -58,31 +62,42 @@
     - [Questions](#questions)
 
     ## Installation
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Your installation instructions go here. Be specific so that the user can easily perform necessary steps.
+    - List necessary programs or packages to install.
+    - Give code or command examples to simplify the process.
+    - Describe any errors and how to handle them along the way.
 
     ## Usage
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    For the usage instructions/examples you should provide a detailed description of how to run your application.
+    - Give clear examples.
+    - Provide images for reference.
+    - Give troubleshooting advice.
 
-    ![No screenshot available](./images/md-screenshot.png)
+    ![Screenshot Name or Alt test if unavailable](/some-file/screenshot.png)
 
     ## Link
     To visit the latest deployed version please check out the link below.
-    - No deployment.
+    - [Link Name](https://<your-page.com>/)
 
     ## Contributions
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Give guidelines here for potential future contributions to this project. What is the process?
+    - How to copy the original code.
+    - How to make changes.
+    - How to submit changes.
+    - What happens after change requests are submitted.
 
     ## Tests
-    No testing guidelines at this time.
+    Provide testing guidelines or sample tests for users to run.
     
     ## License
-    Licensed under the [MPL-2.0](https://opensource.org/licenses/MPL-2.0) license.
+    Your project license information goes here.
+    Licensed under the [License Name](https://<license-link.here>) license.
 
     ## Questions
     - Visit my GitHub page:
-      - *[GitHub Page](https://github.com/Username1234)*
+      - *[GitHub Page](https://github.com/<Your-Username>)*
     - Send an email with the project name as the subject to:
-      - *some_email@address.org*
+      - *Your_Email@address.org*
 
 ## Link
 No deployment
