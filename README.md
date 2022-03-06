@@ -20,9 +20,9 @@
 
 ## Usage
 
-![Command Line Prompts](./images/cl-screenshot.png "Question Prompts")
+![Command Line Prompts](/assets/images/cl-screenshot.png "Question Prompts")
 
-![ReadMe File](./images/rm-screenshot.png "Generated ReadMe File")
+![ReadMe File](/assets/images/rm-screenshot.png "Generated ReadMe File")
 
 ## Link
 
