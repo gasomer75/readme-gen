@@ -27,29 +27,28 @@
 - After following these steps your application should be ready to execute.
 
 ## Usage
-- To initialize the prompts you must navigate using the command line to the folder containing the index.js file. 
-- Once in the correct folder use the command:
+1. To initialize the prompts you must navigate using the command line to the folder containing the index.js file. 
+2. Once in the correct folder use the command:
 
       node index.js
     
-- Answer all the prompts and if the file executed properly you will receive a confirmation statement that your ReadMe file was created successfully. 
-- To locate your newly generated file navigate to the `/dist` folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
-  - Note that if you run the application more than once, each time will overwrite the previous file. If you wish to save any copies, do so before running the application.
+3. Answer all the prompts and if the file executed properly you will receive a confirmation statement that your ReadMe file was created successfully. 
+4. To locate your newly generated file navigate to the `/dist` folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
+    - Note that if you run the application more than once, each time will overwrite the previous file. If you wish to save any copies, do so before running the application.
+
+### Link to Walkthrough Video
+[Watch Now](https://drive.google.com/file/d/1ol8UVRxhukai6cItNTqDsnJjr3nTThzV/view)
 
 ### Screenshot of Command Line Prompts
 ![Command Line Prompts](/assets/images/cl-screenshot.png)
 
 ### Example of Generated README File
-    # Project Title Goes Here
-    - If you want to add a badge do it here.
-    - Visit https://github.com/badges/shields/blob/master/README.md for badge info.
+    # The Perfect Pizza
+    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 
     ## Description
-    Your description goes here. Be sure to include a good summary of the project and it's purpose.
-    - What was the goal of this project?
-    - What problem is this project solving?
-    - Why was this my solution?
-    - Is there any desire to improve this project in the future?
+    This is the recipe for the perfect pepperoni pizza. It was inspired by my love for pizza and being very hungry.
 
     ## Table of Contents
 
@@ -62,42 +61,31 @@
     - [Questions](#questions)
 
     ## Installation
-    Your installation instructions go here. Be specific so that the user can easily perform necessary steps.
-    - List necessary programs or packages to install.
-    - Give code or command examples to simplify the process.
-    - Describe any errors and how to handle them along the way.
+    The best way to install the pizza is to make sure it's cooked thoroughly and sliced in manageable pieces. Then insert into your mouth and enjoy.
 
     ## Usage
-    For the usage instructions/examples you should provide a detailed description of how to run your application.
-    - Give clear examples.
-    - Provide images for reference.
-    - Give troubleshooting advice.
+    Using this pizza should only be done by a professional. It takes years of experience to master this pizza.
 
-    ![Screenshot Name or Alt test if unavailable](/some-file/screenshot.png)
+    ![No screenshot available](./images/screenshot.jpg)
 
     ## Link
     To visit the latest deployed version please check out the link below.
-    - [Link Name](https://<your-page.com>/)
+    - https://myperfectpizza.com
 
     ## Contributions
-    Give guidelines here for potential future contributions to this project. What is the process?
-    - How to copy the original code.
-    - How to make changes.
-    - How to submit changes.
-    - What happens after change requests are submitted.
+    If  you would like to contribute to my perfect pizza please do. I am always looking for a more perfect version.
 
     ## Tests
-    Provide testing guidelines or sample tests for users to run.
+    Don't test it. Just enjoy it.
     
     ## License
-    Your project license information goes here.
-    Licensed under the [License Name](https://<license-link.here>) license.
+    Licensed under the [GPL-3.0](https://opensource.org/licenses/GPL-3.0) license.
 
     ## Questions
     - Visit my GitHub page:
-      - *[GitHub Page](https://github.com/<Your-Username>)*
+      - *[GitHub Page](https://github.com/gasomer75)*
     - Send an email with the project name as the subject to:
-      - *Your_Email@address.org*
+      - *gasomer75@hotmail.com*
 
 ## Link
 No deployment

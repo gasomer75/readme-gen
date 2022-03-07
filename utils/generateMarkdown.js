@@ -72,7 +72,7 @@ ${data.description}
 - [Usage](#usage)
 - [Link](#link)
 - [Contributions](#contributions)
-- [Tests](#tests)
+- [Testing](#testing)
 ${licenseTOC(data.license)}
 - [Questions](#questions)
 
@@ -91,7 +91,7 @@ To visit the latest deployed version please check out the link below.
 ## Contributions
 ${data.contributions}
 
-## Tests
+## Testing
 ${data.testing}
  
 ## ${renderLicenseSection(data.license)}

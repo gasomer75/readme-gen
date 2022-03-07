@@ -64,19 +64,6 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'contributions',
-    message: 'Provide guidelines for others to contribute to your project: ',
-    validate: contributionsInput => {
-      if (contributionsInput) {
-        return true;
-      } else {
-        console.log('Please give contribution instructions to continue!');
-        return false;
-      }
-    }
-  },
-  {
-    type: 'input',
     name: 'installation',
     message: 'Provide instructions for installation of your project: ',
     validate: installationInput => {
@@ -90,12 +77,6 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'link',
-    message: "Enter the url to your deployed application.(Press Enter to bypass): ",
-    default: 'No deployment.'
-  },
-  {
-    type: 'input',
     name: 'usage',
     message: 'Provide usage instructions and examples: ',
     validate: usageInput => {
@@ -103,6 +84,25 @@ const questions = [
         return true;
       } else {
         console.log('Please give usage instructions to continue!');
+        return false;
+      }
+    }
+  },
+  {
+    type: 'input',
+    name: 'link',
+    message: "Enter the url to your deployed application.(Press Enter to bypass): ",
+    default: 'No deployment.'
+  },
+  {
+    type: 'input',
+    name: 'contributions',
+    message: 'Provide guidelines for others to contribute to your project: ',
+    validate: contributionsInput => {
+      if (contributionsInput) {
+        return true;
+      } else {
+        console.log('Please give contribution instructions to continue!');
         return false;
       }
     }

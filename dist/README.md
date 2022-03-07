@@ -1,10 +1,10 @@
 
-# Project Title Goes Here
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# My Perfect Pizza
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ This is the recipe for the perfect pepperoni pizza. I was inspired by my love for pizza and being very hungry.
 
 ## Table of Contents
 
@@ -12,33 +12,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Usage](#usage)
 - [Link](#link)
 - [Contributions](#contributions)
-- [Tests](#tests)
+- [Testing](#testing)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The best way to install the pizza is to make sure it's cooked thoroughly and sliced in manageable pieces.
 
 ## Usage
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Using this pizza should only be done by a professional. It takes years of experience to master this pizza.
 
-![No screenshot available](./images/md-screenshot.png)
+![No screenshot available](./images/screenshot.jpg)
 
 ## Link
 To visit the latest deployed version please check out the link below.
-- No deployment.
+- https://myperfectpizza.com
 
 ## Contributions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ If you would like to contribute to my perfect pizza please do. I am always looking for a more perfect version.
 
-## Tests
-No testing guidelines at this time.
+## Testing
+Don't test it. Enjoy it!!
  
 ## License
-Licensed under the [MPL-2.0](https://opensource.org/licenses/MPL-2.0) license.
+Licensed under the [GPL-3.0](https://opensource.org/licenses/GPL-3.0) license.
 
 ## Questions
 - Visit my GitHub page:
-  - *[GitHub Page](https://github.com/Username1234)*
+  - *[GitHub Page](https://github.com/gasomer75)*
 - Send an email with the project name as the subject to:
-  - *someemail@address.org*
+  - *gasomer75@hotmail.com*
