@@ -30,7 +30,7 @@
 1. To initialize the prompts you must navigate using the command line to the folder containing the index.js file. 
 2. Once in the correct folder use the command:
 
-      node index.js
+        node index.js
     
 3. Answer all the prompts and if the file executed properly you will receive a confirmation statement that your ReadMe file was created successfully. 
 4. To locate your newly generated file navigate to the `/dist` folder and locate the README.md file in that folder. This file is your newly generated ReadMe file. 
